@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 3e2b79c7bb571f84682da042d8fd81de
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Princess1:Head
+    100004: Princess1:HeadTop_End
+    100006: Princess1:Hips
+    100008: Princess1:LeftArm
+    100010: Princess1:LeftFoot
+    100012: Princess1:LeftForeArm
+    100014: Princess1:LeftHand
+    100016: Princess1:LeftLeg
+    100018: Princess1:LeftShoulder
+    100020: Princess1:LeftToe_End
+    100022: Princess1:LeftToeBase
+    100024: Princess1:LeftUpLeg
+    100026: Princess1:Neck
+    100028: Princess1:RightArm
+    100030: Princess1:RightFoot
+    100032: Princess1:RightForeArm
+    100034: Princess1:RightHand
+    100036: Princess1:RightLeg
+    100038: Princess1:RightShoulder
+    100040: Princess1:RightToe_End
+    100042: Princess1:RightToeBase
+    100044: Princess1:RightUpLeg
+    100046: Princess1:Spine
+    100048: Princess1:Spine1
+    100050: Princess1:Spine2
+    100052: Princess1:ZBrushPolyMesh3D
+    400000: //RootNode
+    400002: Princess1:Head
+    400004: Princess1:HeadTop_End
+    400006: Princess1:Hips
+    400008: Princess1:LeftArm
+    400010: Princess1:LeftFoot
+    400012: Princess1:LeftForeArm
+    400014: Princess1:LeftHand
+    400016: Princess1:LeftLeg
+    400018: Princess1:LeftShoulder
+    400020: Princess1:LeftToe_End
+    400022: Princess1:LeftToeBase
+    400024: Princess1:LeftUpLeg
+    400026: Princess1:Neck
+    400028: Princess1:RightArm
+    400030: Princess1:RightFoot
+    400032: Princess1:RightForeArm
+    400034: Princess1:RightHand
+    400036: Princess1:RightLeg
+    400038: Princess1:RightShoulder
+    400040: Princess1:RightToe_End
+    400042: Princess1:RightToeBase
+    400044: Princess1:RightUpLeg
+    400046: Princess1:Spine
+    400048: Princess1:Spine1
+    400050: Princess1:Spine2
+    400052: Princess1:ZBrushPolyMesh3D
+    2100000: Princess1_defaultMat1
+    4300000: Princess1:ZBrushPolyMesh3D
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Princess1:ZBrushPolyMesh3D
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Princess1_defaultMat1
+    second: {fileID: 2100000, guid: 57cdbdffe4652fc43b71ea9c015efc64, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Princess1:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Princess1:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: LittlePrincess(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:ZBrushPolyMesh3D
+      parentName: LittlePrincess(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Hips
+      parentName: LittlePrincess(Clone)
+      position: {x: -0.019453837, y: 6.5164957, z: 0.5528645}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightUpLeg
+      parentName: Princess1:Hips
+      position: {x: 1.7351284, y: -0.612301, z: 0.013633575}
+      rotation: {x: 0.00029616366, y: 0.014183731, z: 0.9996815, w: -0.020873867}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightLeg
+      parentName: Princess1:RightUpLeg
+      position: {x: -0, y: 2.7461722, z: 0}
+      rotation: {x: -0.014393272, y: -0.0013442273, z: 0.092978396, w: 0.9955632}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightFoot
+      parentName: Princess1:RightLeg
+      position: {x: -7.105427e-17, y: 1.8319651, z: 0}
+      rotation: {x: 0.34353235, y: -0.0626024, z: 0.022204196, w: 0.9367889}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightToeBase
+      parentName: Princess1:RightFoot
+      position: {x: -0, y: 1.6643292, z: 0}
+      rotation: {x: 0.41059875, y: -0.08958432, z: 0.04057731, w: 0.906497}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightToe_End
+      parentName: Princess1:RightToeBase
+      position: {x: 1.4210854e-16, y: 0.63991684, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftUpLeg
+      parentName: Princess1:Hips
+      position: {x: -1.7351284, y: -0.612301, z: 0.03845581}
+      rotation: {x: -0.00013071204, y: 0.0062579717, z: 0.99976236, w: 0.02088232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftLeg
+      parentName: Princess1:LeftUpLeg
+      position: {x: -0, y: 2.7452834, z: -7.105427e-17}
+      rotation: {x: 0.008590026, y: -0.0008014826, z: -0.0928969, w: 0.9956384}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftFoot
+      parentName: Princess1:LeftLeg
+      position: {x: 7.105427e-17, y: 1.8327577, z: 0}
+      rotation: {x: 0.33329347, y: 0.06546309, z: -0.021721618, w: 0.9402968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftToeBase
+      parentName: Princess1:LeftFoot
+      position: {x: -0, y: 1.6756399, z: -5.684342e-16}
+      rotation: {x: 0.40754163, y: 0.0782019, z: -0.035055056, w: 0.90915644}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftToe_End
+      parentName: Princess1:LeftToeBase
+      position: {x: 1.4210854e-16, y: 0.672502, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Spine
+      parentName: Princess1:Hips
+      position: {x: -0, y: 1.1034575, z: -0.20317452}
+      rotation: {x: -0.09091727, y: 0, z: -0, w: 0.99585843}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Spine1
+      parentName: Princess1:Spine
+      position: {x: -0, y: 1.309007, z: -3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Spine2
+      parentName: Princess1:Spine1
+      position: {x: -0, y: 1.496009, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftShoulder
+      parentName: Princess1:Spine2
+      position: {x: -0.56347257, y: 1.5477554, z: -0.024095088}
+      rotation: {x: 0.5413418, y: -0.44951355, z: 0.56420976, w: 0.43191895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftArm
+      parentName: Princess1:LeftShoulder
+      position: {x: 7.105427e-17, y: 1.1478925, z: -5.684342e-16}
+      rotation: {x: -0.078594394, y: 0.006341726, z: -0.040540878, w: 0.99606186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftForeArm
+      parentName: Princess1:LeftArm
+      position: {x: 9.7699626e-17, y: 2.4460616, z: 0}
+      rotation: {x: -0.025227591, y: 0.0030339188, z: -0.01751065, w: 0.9995238}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:LeftHand
+      parentName: Princess1:LeftForeArm
+      position: {x: -0, y: 1.6564045, z: 5.684342e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightShoulder
+      parentName: Princess1:Spine2
+      position: {x: 0.56347257, y: 1.5480434, z: -0.02565922}
+      rotation: {x: -0.54044473, y: -0.45026308, z: 0.56484723, w: -0.43142816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightArm
+      parentName: Princess1:RightShoulder
+      position: {x: -0, y: 1.1478924, z: -5.684342e-16}
+      rotation: {x: -0.07941971, y: -0.006339536, z: 0.038062427, w: 0.99609417}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightForeArm
+      parentName: Princess1:RightArm
+      position: {x: -5.3290704e-17, y: 2.4442384, z: 0}
+      rotation: {x: -0.0250275, y: -0.002999285, z: 0.017158348, w: 0.999535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:RightHand
+      parentName: Princess1:RightForeArm
+      position: {x: -0, y: 1.6522745, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Neck
+      parentName: Princess1:Spine2
+      position: {x: -0, y: 1.6830091, z: -0.000000008558771}
+      rotation: {x: 0.13492537, y: -0, z: -0, w: 0.99085575}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:Head
+      parentName: Princess1:Neck
+      position: {x: -0, y: 1.0468597, z: -0.69149196}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Princess1:HeadTop_End
+      parentName: Princess1:Head
+      position: {x: -0, y: 3.2119873, z: -2.121644}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
